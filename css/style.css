@@ -12,9 +12,11 @@ body {
 	justify-content: center;
 	align-items: center;
 }
+h1{border-color: blue;}
 
 #game-canvas {
 	width: 800px;
 	height: 600px;
 	border: solid 1px black;
 }
+h1{color: blue;}
